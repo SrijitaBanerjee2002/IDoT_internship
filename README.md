@@ -31,3 +31,12 @@ Notebook available via [Google Colab](https://colab.research.google.com/drive/1l
 
 - Python (Pandas, Matplotlib, Seaborn, PIL)
 - Roboflow
+
+# 😊 About Me
+Hi! I’m Srijita Banerjee, a recent Computer Science graduate from UIC. I love using code to solve real-world problems — especially ones that make life a little easier, safer, or more human.
+
+I’ve worked on projects in data visualization, object detection, and backend development. I’ve also taught coding to underrepresented girls in India, interned at the Illinois Department of Transportation, and TA’d a course on ethics in tech.
+
+Feel free to connect or reach out 🫶  
+📧 Email: [banerjeesrj@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/srijitabanerjee/]
