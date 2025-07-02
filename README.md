@@ -24,7 +24,7 @@ This project was created as part of my internship with the **Illinois Department
 - `accident images/`: Supporting visuals from dataset
 
 ## 🔗 Links available
-Full dataset available via [Google Drive]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1RlXaxoTCfnEkwtVVOQgU0sZD75CTQ9bD/view?usp=sharing)).
+Full dataset available via [Google Drive](https://drive.google.com/file/d/1RlXaxoTCfnEkwtVVOQgU0sZD75CTQ9bD/view?usp=sharing).
 Notebook available via [Google Colab](https://colab.research.google.com/drive/1lNyqeUdJy0OACanQ3rBZDV9eaVyWwwW3?usp=sharing)
 
 ## 🛠️  Tools Used
