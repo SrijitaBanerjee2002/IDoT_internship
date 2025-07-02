@@ -15,7 +15,8 @@ This project was created as part of my internship with the **Illinois Department
 - ✅ Highway vs. Non-Highway: Donut charts, bar plots
 - ✅ Emergency vs. Non-Emergency Vehicles
 - ✅ Rain condition tagging frequency
-- ✅ Annotated vehicle previews from camera footage
+- ✅ Annotated vehicle previews from camera footage - This model was trained using Roboflow's 2.1 Instance Segmentation pipeline to distinguish between the front and back of vehicles in traffic footage. It achieved a mAP@50 of 71.6%, Precision of 68.8%, and Recall of 65.6% on the test set, with bounding box predictions visualized using the Roboflow dashboard. Due to platform constraints, direct inference wasn't conducted via code, but this model can be integrated via Roboflow's Python SDK using API endpoints for real-time inference.
+
 
 ## 📂 Files in This Repo
 
@@ -24,8 +25,9 @@ This project was created as part of my internship with the **Illinois Department
 - `accident images/`: Supporting visuals from dataset
 
 ## 🔗 Links available
-Full dataset available via [Google Drive](https://drive.google.com/file/d/1RlXaxoTCfnEkwtVVOQgU0sZD75CTQ9bD/view?usp=sharing).
-Notebook available via [Google Colab](https://colab.research.google.com/drive/1lNyqeUdJy0OACanQ3rBZDV9eaVyWwwW3?usp=sharing)
+- Full dataset available via [Google Drive](https://drive.google.com/file/d/1RlXaxoTCfnEkwtVVOQgU0sZD75CTQ9bD/view?usp=sharing).
+- Notebook available via [Google Colab](https://colab.research.google.com/drive/1lNyqeUdJy0OACanQ3rBZDV9eaVyWwwW3?usp=sharing)
+- Instance Segmentation model metrics available via [Google Drive](https://drive.google.com/drive/folders/1B4Bm3vVYhU5r8BHf8EkmabIRAbL3tRbj?usp=sharing)
 
 ## 🛠️  Tools Used
 
